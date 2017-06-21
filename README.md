@@ -1,6 +1,6 @@
 # PIG DICE
 
-Authors: [Bry Onyoni](https://github.com/bryonyoni)
+Authors: [OWINO BEN OGWANG](https://github.com/OWINOOGWANG)
 
 ## Description
 
@@ -14,17 +14,6 @@ It:
 * HTML
 * CSS
 * JavaScript
-
-## Setup
-
-Make sure you have git installed. On the terminal, navigate to your workspace directory and run
-
-```bash
-$ git clone https://github.com/bryonyoni/PigDice.git
-```
-## Contributing
-
-We welcome pull requests. Plus if you have any problems or contributions to add, share.
 
 ## License
 

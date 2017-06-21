@@ -1,5 +1,9 @@
 body{
-  background-color: #EAB84C ;
+  background-color: #e4f7e4 ;
+}
+img{
+  height: 190px;
+  width: 150px;
 }
 
 .button {
@@ -42,30 +46,27 @@ body{
 
 #game{
   display: none;
+  text-align: center;
 }
 #instructions{
   padding-left: 400px;
-  font-family: 'Risque', cursive;
+  font-family: 'Metamorphous', cursive;
 }
 
 #header {
-    /*background-image: url(../images/diceBackground.jpg);*/
-    /*filter: blur(1px);*/
-    background-color: #708EFF;
-    padding-left: 510px;
-    padding-top: 100px;
-    font-family: 'Bungee Inline', cursive;
+    background-color: #FFFFFF;
+    font-family: 'Metamorphous Inline', cursive;
     font-size: 70px;
-    margin-bottom: 20px;
-    height: 300px
+    margin-bottom:0px;
+    height: 300px;
+    text-align: center;
 }
 
 #player1 {
     font-size: 20px;
     padding-left: 40px;
     padding-top: 50px;
-    font-family: 'Risque', cursive;
-    background-color: #EAB84C  ;
+    font-family: 'Metamorphous', cursive;
     height: 300px;
     border-right: 1px solid #937638  ;
 }
@@ -80,7 +81,7 @@ body{
 
 #roll {
     margin-right: 20px;
-    background-color: #FF7676;
+    background-color: red;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -93,7 +94,7 @@ body{
 }
 #hold{
   margin-right: 20px;
-  background-color: #EBB0FF;
+  background-color: green;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -108,26 +109,18 @@ body{
 #board{
   padding-left: 40px;
   padding-top: 50px;
-  font-family: 'Risque', cursive;
+  font-family: 'Metamorphous', cursive;
   font-size: 40px;
 }
-#winner-meme{
-display: none;
-}
-#winner-meme2{
-  display: none;
-}
-
-
 #player2 {
     font-size: 20px;
     padding-left: 40px;
     padding-top: 50px;
-    font-family: 'Risque', cursive;
-    background-color:#EAB84C  ;
+    font-family: 'Metamorphous', cursive;
+    background-color:#e4f7e4  ;
     height: 300px;
     border-left:  1px solid #937638  ;
 }
 #player2 p {
-    padding-bottom: 20px;
+    padding-bottom: 0px;
 }
